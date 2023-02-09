@@ -158,36 +158,36 @@
 }
 
 .side {
-    top: 50px;
-    width: 220px;
-    height: 220px;
+    top: 60px;
+    width: 210px;
+    height: 210px;
     -moz-border-radius: 220px;
     -webkit-border-radius: 220px;
     border-radius: 220px;
 }
 
 .center {
-    width: 210px;
-    height: 210px;
+    width: 200px;
+    height: 200px;
     bottom: 100px;
-    left: 145px;
+    left: 105px;
     font-size: 0;
     text-indent: -9999px;
 }
 
 .left {
-    left: 62px;
+    left: 12px;
 }
 
 .right {
-    right: 62px;
+    right: 112px;
 }
 
 .text {
     background: none;
     font-family: "Sofia", sans-serif;
     position: absolute;
-    margin: 108px 108px;
+    margin: 108px 98px;
     z-index: 9;
     font-size: 40px;
     text-align: center;
